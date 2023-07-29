@@ -521,6 +521,7 @@
 @types/node
 @types/node-fetch
 @types/pino
+@types/prettier
 @types/puppeteer
 @types/puppeteer-core
 @types/react-leaflet
@@ -767,6 +768,7 @@ polished
 popper.js
 postcss
 preact
+prettier
 pretty-format
 probot
 prom-client
